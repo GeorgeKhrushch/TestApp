@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_main">Weather</string>
+    <string name="internet_problems">Internet problem occured. Turn on mobile network or Wi-Fi</string>
+    <string name="server_error">Server error occured.</string>
+    <string name="title_select_city">Select city:</string>
+    <string name="notification_title">Weather in</string>
+</resources>
